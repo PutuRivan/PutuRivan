@@ -37,3 +37,6 @@ I'm always excited to connect with fellow developers, collaborate on interesting
 </a>
 
 Thank you for visiting my GitHub profile! Let's create something amazing together! 🚀
+
+![Putu Rivan GitHub stats](https://github-readme-stats.vercel.app/api?username=PutuRivan&show_icons=true&theme=radical)
+
