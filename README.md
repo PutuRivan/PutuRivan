@@ -26,14 +26,14 @@ I'm always excited to connect with fellow developers, collaborate on interesting
 <a href="mailto:puturivana.d@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30">
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/ptu-rivan" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30">
 </a>
-&nbsp;
-&nbsp;
 <a href="https://www.instagram.com/rivanputu_" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" height="30">
+</a>
+<a href="" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQzajpUiiTjki6Hhee-6dgCv5mm_jyMSoVlg&s" alt="Instagram" height="30">
 </a>
 
 Thank you for visiting my GitHub profile! Let's create something amazing together! 🚀
